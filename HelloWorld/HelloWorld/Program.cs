@@ -13,6 +13,7 @@ namespace HelloWorld
         [STAThread]
         static void Main()
         {
+//litao 1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
